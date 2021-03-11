@@ -1004,6 +1004,7 @@ int player5A_V_Sync_plus(int argc, char *argv[]) {
     SDL_Event       event;
     
     
+    
     VideoState      *is;
     
     //初始化结构体，会
