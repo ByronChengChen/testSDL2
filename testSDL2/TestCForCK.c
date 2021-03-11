@@ -12,6 +12,7 @@
 #include <pthread.h>
 #include <unistd.h>
 
+
 static int num = 9;
 pthread_t thread1;
 
